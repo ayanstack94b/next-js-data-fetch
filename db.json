@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 5999,
+      "stock": 25,
+      "rating": 4.5,
+      "image": "https://picsum.photos/seed/headphones/400/300",
+      "description": "High quality wireless headphones with noise cancellation and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "brand": "Nike",
+      "category": "Footwear",
+      "price": 3499,
+      "stock": 40,
+      "rating": 4.3,
+      "image": "https://picsum.photos/seed/shoes/400/300",
+      "description": "Comfortable running shoes designed for daily training and long runs."
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "brand": "Realme",
+      "category": "Electronics",
+      "price": 2499,
+      "stock": 30,
+      "rating": 4.1,
+      "image": "https://picsum.photos/seed/watch/400/300",
+      "description": "Track your fitness, heart rate, and notifications with this smart watch."
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "brand": "Wildcraft",
+      "category": "Accessories",
+      "price": 1299,
+      "stock": 50,
+      "rating": 4.4,
+      "image": "https://picsum.photos/seed/backpack/400/300",
+      "description": "Durable backpack suitable for travel, college, and everyday use."
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse",
+      "brand": "Logitech",
+      "category": "Electronics",
+      "price": 1999,
+      "stock": 20,
+      "rating": 4.6,
+      "image": "https://picsum.photos/seed/mouse/400/300",
+      "description": "Precision gaming mouse with customizable DPI and RGB lighting."
+    }
+  ]
+}
